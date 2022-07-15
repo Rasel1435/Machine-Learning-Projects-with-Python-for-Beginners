@@ -1,0 +1,386 @@
+6/7/22, 10:10 PM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+6/7/22, 5:42 PM - +880 1753-005687 created group "HRV MLDS Community"
+6/7/22, 10:10 PM - Mahmuda Apu Hr. Venture added you
+6/7/22, 11:10 PM - Sheikh Rasel Ahmed(Nirob): Asscalamu Walaikum
+6/7/22, 11:11 PM - +880 1912-236428: Walicom as salam
+6/7/22, 11:13 PM - Sheikh Rasel Ahmed(Nirob): ki obostha sobar kaj kmn kortecen
+6/7/22, 11:15 PM - +880 1912-236428: Now in class with Hafiz Bhai.
+6/7/22, 11:17 PM - Sheikh Rasel Ahmed(Nirob): ki class
+6/7/22, 11:17 PM - +880 1912-236428: Mlds
+6/7/22, 11:18 PM - Sheikh Rasel Ahmed(Nirob): ki korassc aj
+6/8/22, 9:32 AM - +880 1980-646728 left
+6/8/22, 10:36 AM - Sheikh Rasel Ahmed(Nirob): https://colab.research.google.com/drive/1wWKYEb0jatirKUgrdx3FNnnd9kD417Uo?usp=sharing
+6/8/22, 10:37 AM - Sheikh Rasel Ahmed(Nirob): if anyone can clean this colab and run it successfully then lemme know
+6/8/22, 10:37 AM - Sheikh Rasel Ahmed(Nirob): this is your task
+6/8/22, 10:38 AM - MD. Zahirul Islam Joy(hr venture15): Ok.
+6/8/22, 10:44 AM - Sheikh Rasel Ahmed(Nirob): as soon as possible
+6/8/22, 10:47 AM - +880 1721-307072: ModuleNotFoundError: No module named 'mpld3'  this error is showing
+6/8/22, 10:48 AM - Sheikh Rasel Ahmed(Nirob): use !pip install
+6/8/22, 10:48 AM - +880 1721-307072: dewa hoese ?
+6/8/22, 10:49 AM - Sheikh Rasel Ahmed(Nirob): !pip install mpld3
+6/8/22, 10:49 AM - Sheikh Rasel Ahmed(Nirob): !pip3 install mpld3
+6/8/22, 10:49 AM - Sheikh Rasel Ahmed(Nirob): if you have update version then use pip3
+6/8/22, 10:50 AM - +880 1721-307072: name '__file__' is not defined
+6/8/22, 10:50 AM - Sheikh Rasel Ahmed(Nirob): this is your task
+6/8/22, 10:52 AM - +880 1721-307072: ভাই এইটা সমাধান করে কি করবো ?
+6/8/22, 10:53 AM - Sheikh Rasel Ahmed(Nirob): if anyone can clean this colab and run it successfully then lemme know
+6/8/22, 10:53 AM - +880 1721-307072: ও আচ্ছা
+6/8/22, 10:54 AM - +880 1721-307072: just compile and run ?
+6/8/22, 10:54 AM - Sheikh Rasel Ahmed(Nirob): if you are not interested to do it then skip it
+6/8/22, 10:55 AM - Sheikh Rasel Ahmed(Nirob): just clean this and run this program successfully
+6/8/22, 11:17 AM - +880 1721-307072: ভাই প্রোগ্রাম তো রান করে ?
+6/8/22, 11:17 AM - Sheikh Rasel Ahmed(Nirob): apni amk file na dile bujbo kmne
+6/8/22, 11:18 AM - +880 1721-307072: কোন error আসে নাই
+6/8/22, 11:18 AM - Anik-hr_ventur: We need a few active and serious guys. We will guide you through the next selection process. If you are not cooperating with us then how will we evaluate? So please if anyone is not interested to do those tasks then please let us know.
+6/8/22, 11:19 AM - +880 1721-307072: জি ঠিক আছে?
+6/8/22, 11:19 AM - +880 1721-307072: না উদ্যোগ টা বেশ ভালো
+6/8/22, 11:20 AM - +880 1721-307072: এমন একটা গ্রুপ থাকা ভালো
+6/8/22, 11:23 AM - Anik-hr_ventur: Yes
+6/8/22, 11:24 AM - Sheikh Rasel Ahmed(Nirob): send me the file
+6/8/22, 11:30 AM - +880 1721-307072: ভাই আমি মাত্র আপনার কমান্ডটা (!pip3 install mpld3) দিয়েছি আর _file_ টা উঠিয়ে দিয়েছি, প্রোগ্রাম রান করে বাট কোন output নাই।
+6/8/22, 11:32 AM - Sheikh Rasel Ahmed(Nirob): are vai ki korcen seta na dekhe amim kmne bolbo
+6/8/22, 11:32 AM - Sheikh Rasel Ahmed(Nirob): r run korle output kn asbe na
+6/8/22, 11:33 AM - Sheikh Rasel Ahmed(Nirob): apni jai korcen sei file tai den dekhi ami
+6/8/22, 11:33 AM - +880 1721-307072: আমি যে কেটে দিলাম, আচ্ছা ভাই আবার রেডি করে দিচ্ছি
+6/8/22, 11:47 AM - +880 1627-774551 left
+6/8/22, 11:51 AM - +880 1721-307072: <Media omitted>
+6/8/22, 11:51 AM - +880 1721-307072: ভাই দিয়েছি
+6/8/22, 11:52 AM - Sheikh Rasel Ahmed(Nirob): course kortecen koto din jaboto
+6/8/22, 11:52 AM - Sheikh Rasel Ahmed(Nirob): ?
+6/8/22, 11:52 AM - +880 1721-307072: অনেকদিন
+6/8/22, 11:58 AM - Sheikh Rasel Ahmed(Nirob): apni kaj koren ki software diye
+6/8/22, 12:02 PM - +880 1721-307072: colab.research.google.com
+6/8/22, 12:03 PM - Sheikh Rasel Ahmed(Nirob): vs code use koren na
+6/8/22, 12:04 PM - +880 1721-307072: জি করি
+6/8/22, 12:06 PM - +880 1911-710736: yes
+6/8/22, 12:21 PM - Sheikh Rasel Ahmed(Nirob): code ta vs code e den
+6/8/22, 12:21 PM - Sheikh Rasel Ahmed(Nirob): text document e kew code dey
+6/8/22, 12:22 PM - +880 1721-307072: kan bhai ? copy kore dilei to hoi, assa deksi ..
+6/8/22, 12:33 PM - Sheikh Rasel Ahmed(Nirob): @8801680728542 @8801946116327 I wanted to take someone more from here that's why I send them a dataset to solve just for testing purpose. and I got @8801721307072 only but I am confused is he fit for our Project or not so i would like to request @8801680728542 @8801946116327  vai please have a look our Todays conversion.
+thanks & regards,
+SRA
+6/8/22, 12:41 PM - Sheikh Rasel Ahmed(Nirob): #conversation
+6/8/22, 12:43 PM - MD. Zahirul Islam Joy(hr venture15): @8801738069961  and I, are working on the file and communicating with each other in zoom, as a new member (1015 batch) we are facing some basic obstacles. we are working together to solve those.
+6/8/22, 12:52 PM - Sheikh Rasel Ahmed(Nirob): @8801672333889  apni ki East West er na?
+6/8/22, 12:52 PM - MD. Zahirul Islam Joy(hr venture15): Ji vai
+6/8/22, 12:52 PM - Sheikh Rasel Ahmed(Nirob): got it carry on
+6/8/22, 3:44 PM - Sheikh Rasel Ahmed(Nirob): <Media omitted>
+6/8/22, 3:47 PM - +880 1730-297913 left
+6/8/22, 3:47 PM - Maruf Hossain(hr venture 1015): Alhamdulillah
+6/8/22, 3:53 PM - Sheikh Rasel Ahmed(Nirob): k jeno bolcilo English valo pare can you plz.. explain this clearly that what he want exactly
+6/8/22, 4:03 PM - Sheikh Rasel Ahmed(Nirob): there is no one active. all are busy with their life. so I think I should not be here. Best off luck all expert brothers and sister ❤️
+6/8/22, 4:26 PM - +880 1632-701911: Hi, I am still doing the courses.
+6/8/22, 4:27 PM - +880 1632-701911: I have my honors final exam. I want to start working after that. Is it possible?
+6/8/22, 4:29 PM - Sheikh Rasel Ahmed(Nirob): ami just apnader kac theke etotko seyecilam j eta explain koren j uni ki bolc r ki chay ami boli nai j coding kore den apnara kothai bujen na r eta korte apnar kono course er need ney English ta valo janlei enough thank you
+6/8/22, 6:24 PM - MD. Zahirul Islam Joy(hr venture15): <Media omitted>
+6/8/22, 6:30 PM - MD. Zahirul Islam Joy(hr venture15): @8801644425997 vai, we nees more information about the game rules. Then we can offer an approach.
+6/8/22, 8:43 PM - Anik-hr_ventur: Today we arrange a meeting at sharp 9 pm.All are requested to join.
+6/8/22, 8:45 PM - +880 1821-054632: <Media omitted>
+6/8/22, 8:46 PM - +880 1821-054632: এই এপ্সের মাধ্যমে খুব সহজেই ইংরেজি স্পোকেন শেখা যাবে। ইনশাল্লাহ।
+6/8/22, 8:46 PM - Anik-hr_ventur: This message was deleted
+6/8/22, 8:47 PM - Anik-hr_ventur: This message was deleted
+6/8/22, 8:47 PM - Anik-hr_ventur: To join the meeting on Google Meet, click this link: 
+https://meet.google.com/cym-femz-fvu 
+ 
+Or open Meet and enter this code: cym-femz-fvu
+6/8/22, 8:48 PM - +880 1742-261053: vai kiser class link dilen
+6/8/22, 9:31 PM - +880 1515-671980 left
+6/8/22, 9:36 PM - +880 1308-227972 left
+6/8/22, 9:58 PM - +880 1716-583538: Is there any JAVA developer? 
+I have a small project for you. I will pay for it. If you are interested, please send me message privately.
+Please find the project details in the attached file. Let me know if you can do it.
+6/8/22, 9:58 PM - +880 1716-583538: <Media omitted>
+6/12/22, 11:06 AM - Sheikh Rasel Ahmed(Nirob): <Media omitted>
+6/12/22, 11:09 AM - Sheikh Rasel Ahmed(Nirob): <Media omitted>
+6/12/22, 11:41 AM - Sheikh Rasel Ahmed(Nirob): Assalamu Alaikum all,
+I am just hopeless with this group. I think this group name should have sleeping group from where people are demotivated. whenever we call meeting they are saying how many meeting left. now start the project. when we are showing some test perpose project where they will get pay that moment we are seeing there is no one all are dead people here.
+
+N.B= Empty vessel sound much.
+6/12/22, 11:54 AM - MD. Zahirul Islam Joy(hr venture15): You only need the brief answer of the 1st question.  And i am sure the rest is already done..
+6/12/22, 7:28 PM - +880 1670-221049: We need to have patience and get through the core programming,  there are many novice here learning gradually, we just cant ignore them, if your programming expert get a jump start and help us get through the journey of programming,
+6/13/22, 1:39 AM - Sheikh Rasel Ahmed(Nirob): <Media omitted>
+6/13/22, 1:45 AM - Sheikh Rasel Ahmed(Nirob): have a look i dont know what they are saying but picture saying lots of things <3
+6/13/22, 7:26 AM - Mohidul Islam Sobuj hr venture (1013): Brilliant
+6/13/22, 1:13 PM - Roni-vai-hr Ve: <Media omitted>
+6/13/22, 1:13 PM - Roni-vai-hr Ve: Pathao CEO Faheem vai
+6/13/22, 1:14 PM - Roni-vai-hr Ve: <Media omitted>
+6/13/22, 1:14 PM - Roni-vai-hr Ve: Zia Asraf vai Chaldal CEO
+6/13/22, 1:15 PM - Sheikh Rasel Ahmed(Nirob): osthir egiye jan
+6/13/22, 2:59 PM - +880 1879-901545: পাইথন, জ্যাঙ্গো, ডেটা সায়েন্স এবং মেশিন লার্নিং স্টুডেন্ট এর জন্য আজ রাত 8.30 pm একটা ইন্টার্নশীপ মিটিং এর আয়োজন করা হয়েছে। যারা ফিজিক্যাল ইন্টার্ন করতে আগ্রহী তারা নিচের লিঙ্কে  ফর্ম পূরণ করে যথাসময়ে জয়েন করবেন।
+6/13/22, 3:03 PM - +880 1879-901545: https://docs.google.com/spreadsheets/d/1mip8qcyay_7OrG-fm_-2opqMeAqhXv7R9mJyj49hHfM/edit#gid=0
+6/13/22, 3:04 PM - Maya roksana (hr venture 1012): Don't have the access
+6/13/22, 3:05 PM - Sheikh Rasel Ahmed(Nirob): <Media omitted>
+6/13/22, 3:43 PM - Sheikh Rasel Ahmed(Nirob): <Media omitted>
+6/13/22, 8:25 PM - Mahmuda Apu Hr. Venture: https://meet.google.com/vaz-kost-npj
+6/13/22, 8:25 PM - Mahmuda Apu Hr. Venture: Meeting link
+6/13/22, 8:25 PM - Mahmuda Apu Hr. Venture: please join on time
+6/13/22, 9:42 PM - +880 1680-363495: Please add the number: 01798119300,  this is someone else's number
+6/16/22, 11:40 PM - Sheikh Rasel Ahmed(Nirob): halka patla experience emn kew ki now online e asen thakle amk knk den
+6/16/22, 11:42 PM - Sheikh Rasel Ahmed(Nirob): urgent
+6/16/22, 11:42 PM - Sheikh Rasel Ahmed(Nirob): call den
+6/16/22, 11:43 PM - +880 1742-261053: ami online aci, but ami new
+6/16/22, 11:44 PM - Sheikh Rasel Ahmed(Nirob): access file kivabe open kore
+6/16/22, 11:44 PM - +880 1742-261053: aponi ki new
+6/16/22, 11:45 PM - Sheikh Rasel Ahmed(Nirob): ha new tai ask korlam
+6/16/22, 11:45 PM - Sheikh Rasel Ahmed(Nirob): ans ta jana thakle boilen boror vai
+6/16/22, 11:45 PM - +880 1742-261053: fb id den
+6/16/22, 11:46 PM - Sheikh Rasel Ahmed(Nirob): id diya ki korben amr to ans need vai
+6/16/22, 11:46 PM - Mohidul Islam Sobuj hr venture (1013): ami achi bro
+6/16/22, 11:46 PM - +880 1742-261053: meet.google.com/rtt-bcgv-ofu
+6/16/22, 11:46 PM - +880 1742-261053: join hon
+6/16/22, 11:47 PM - Mohidul Islam Sobuj hr venture (1013): ki korte hobe bolen
+6/16/22, 11:49 PM - Mohidul Islam Sobuj hr venture (1013): ms access file?
+6/16/22, 11:49 PM - Sheikh Rasel Ahmed(Nirob): access file kivabe open kore
+6/16/22, 11:49 PM - Sheikh Rasel Ahmed(Nirob): yes
+6/16/22, 11:49 PM - Mohidul Islam Sobuj hr venture (1013): python diye connect korar kotha bolche naki?
+6/16/22, 11:50 PM - Mohidul Islam Sobuj hr venture (1013): ms office access install dile open kora jabe
+6/16/22, 11:50 PM - Sheikh Rasel Ahmed(Nirob): python diyeto ami pari
+6/16/22, 11:50 PM - Sheikh Rasel Ahmed(Nirob): read_csv
+6/16/22, 11:51 PM - Mohidul Islam Sobuj hr venture (1013): Microsoft office program ar sathe access install dile open hobe
+6/16/22, 11:55 PM - +880 1742-261053: senior keo thakle join den meet.google.com/rtt-bcgv-ofu
+6/17/22, 12:19 AM - Mohidul Islam Sobuj hr venture (1013): just wait bro
+6/17/22, 12:22 AM - Mohidul Islam Sobuj hr venture (1013): helo bor
+6/17/22, 12:22 AM - Mohidul Islam Sobuj hr venture (1013): done
+6/17/22, 12:40 AM - Mohidul Islam Sobuj hr venture (1013): paichi
+6/17/22, 12:40 AM - Mohidul Islam Sobuj hr venture (1013): Data = pd.DataFrame.from_records(cursor.fetchall(), columns=[col[0] for col in cursor.description])
+6/17/22, 12:40 AM - Mohidul Islam Sobuj hr venture (1013): use this line
+6/17/22, 12:41 AM - Mohidul Islam Sobuj hr venture (1013): @8801644425997
+6/17/22, 12:46 AM - Sheikh Rasel Ahmed(Nirob): Make a generator which converts a present/ past/ future tense sentence to present/past/ future tense sentence
+6/17/22, 12:46 AM - Sheikh Rasel Ahmed(Nirob): send me code
+6/17/22, 12:47 AM - Sheikh Rasel Ahmed(Nirob): Task —
+
+Input: A sentence is given in present/past/future tense.
+
+Select: Which tense do you want to convert to?
+
+Output: Here is the converted sentence.
+
+***
+
+Example: I eat rice.
+
+Select: Future tense
+
+Output: I will eat rice
+
+***
+6/17/22, 12:48 AM - Mohidul Islam Sobuj hr venture (1013): @8801644425997 bhai, aita ki nlp
+6/17/22, 12:52 AM - Sheikh Rasel Ahmed(Nirob): ji
+6/17/22, 2:38 PM - +880 1875-348060 left
+6/18/22, 7:33 PM - MD. Zahirul Islam Joy(hr venture15): Internship niye janar cilo kisu
+6/18/22, 7:33 PM - MD. Zahirul Islam Joy(hr venture15): Next meeting kokhon hobe
+6/18/22, 8:50 PM - Sheikh Rasel Ahmed(Nirob): talk to @8801946116327
+6/18/22, 8:50 PM - Sheikh Rasel Ahmed(Nirob): is there any1 NLP Expert ?
+6/20/22, 7:26 PM - Roni-vai-hr Ve: @ UK base company need urgent CV for data science internship , full time job Offer, have you any query direct call me. Asap
+6/20/22, 8:07 PM - Firoj Hossain(hr venture 11): Ses
+6/20/22, 8:07 PM - Firoj Hossain(hr venture 11): Auto te
+6/20/22, 8:08 PM - Mahmuda Apu Hr. Venture: eiconikbd@gmail.com
+6/20/22, 8:09 PM - Mahmuda Apu Hr. Venture: Ai mail a sobai cv pathaben
+6/20/22, 8:09 PM - Mahmuda Apu Hr. Venture: Any query call: 01958155250 ( Rony Sir)
+6/20/22, 9:59 PM - Roni-vai-hr Ve: Sobai email e cv send koren ami agamikal cv dekbo
+6/20/22, 10:01 PM - Roni-vai-hr Ve: Jara cv send korsen sobair sathe ami kalke meeting korbo eksathe
+6/20/22, 10:01 PM - Roni-vai-hr Ve: Only Jara cv send korsen tader sathe, Jara koren nai kore den
+6/20/22, 10:02 PM - Sheikh Rasel Ahmed(Nirob): Done
+6/21/22, 11:30 AM - Sheikh Rasel Ahmed(Nirob): Meeting Time kokhon @8801946116327
+6/21/22, 1:06 PM - Roni-vai-hr Ve: @all ami meeting korbo but Abar o sobaike request korsi Jara intern korte chan CV send koren.
+6/21/22, 1:06 PM - Roni-vai-hr Ve: Agamikal 11.30 am kemon hoi
+6/21/22, 1:07 PM - Sheikh Rasel Ahmed(Nirob): ajke meeting ta hole valo hoy vai
+6/21/22, 1:08 PM - Roni-vai-hr Ve: Ami sobair CV painai
+6/21/22, 1:09 PM - Roni-vai-hr Ve: @all sobaike request korbo ajker moddhe amake cv gulo diben, Jara cv diben tader sathe meeting hobe.
+6/21/22, 1:10 PM - Sheikh Rasel Ahmed(Nirob): jara intersted tara cv Kal kei dic vai apni ajke meeting er ekta time den kokhon korben
+6/21/22, 1:11 PM - Roni-vai-hr Ve: Ami cv gulo received kori vaia at first same topic niye bar bar discuss korbo na
+6/21/22, 1:11 PM - Roni-vai-hr Ve: Amar khub valo lagse apnar interested er jonno 👍
+6/21/22, 1:12 PM - Roni-vai-hr Ve: Don't worry apne tension koiren na
+6/21/22, 1:12 PM - Roni-vai-hr Ve: Ei group e ami active person khub kom pai
+6/21/22, 1:12 PM - Sheikh Rasel Ahmed(Nirob): jai koren vai meeting ta aj kei koren need hole amo sobaik knk diye boltec
+6/21/22, 1:29 PM - Maya roksana (hr venture 1012): It would be better if we have the meeting today
+6/21/22, 2:42 PM - MD. Zahirul Islam Joy(hr venture15): meeting today will be very helpful for us
+6/21/22, 2:43 PM - +880 1680-363495: @8801958155254 please add 01798119300
+6/21/22, 2:48 PM - +880 1531-604968: ok
+6/21/22, 3:00 PM - Mohidul Islam Sobuj hr venture (1013): Please arrange the meeting by today.
+6/21/22, 3:27 PM - +880 1926-818980 left
+6/21/22, 4:09 PM - +880 1680-363495: @8801958155254  please add this number...  This is my mothers number... I am not getting the texts!!
+6/21/22, 9:20 PM - Sheikh Rasel Ahmed(Nirob): vai aj ki meeting ta korben?
+6/21/22, 7:47 PM - Anik-hr_ventur: Ji vai plz arrange the meeting today.its badly needed.
+6/21/22, 7:54 PM - Mahmuda Apu Hr. Venture: Jara cv pathiyesen tader sathe ajke rat 9.30pm meeting kora hbe
+6/21/22, 9:30 PM - Mahmuda Apu Hr. Venture: https://meet.google.com/kkg-iwdr-pyg
+6/21/22, 9:34 PM - Roni-vai-hr Ve: @8801958155254 accept koten
+6/21/22, 10:13 PM - Sheikh Rasel Ahmed(Nirob): vai meeting ki sez
+6/21/22, 10:13 PM - Sheikh Rasel Ahmed(Nirob): ses
+6/21/22, 10:13 PM - Anik-hr_ventur: Rony bhai k phn den klk.koi cilen apni?
+6/21/22, 10:13 PM - Anik-hr_ventur: Je sir
+6/21/22, 10:13 PM - Sheikh Rasel Ahmed(Nirob): matro basay aslam vai eta kmn kotha kono time na bolei meeting holo
+6/21/22, 10:14 PM - Anik-hr_ventur: Plz b active 😎
+6/22/22, 1:01 AM - +880 1631-804258: <Media omitted>
+6/22/22, 1:03 AM - Sheikh Rasel Ahmed(Nirob): 😂
+6/22/22, 3:28 PM - Sheikh Rasel Ahmed(Nirob): aj ki meeting ac ? @8801946116327
+6/22/22, 3:55 PM - Roni-vai-hr Ve: CV Send korsen amake
+6/22/22, 3:57 PM - Sheikh Rasel Ahmed(Nirob): ki bolen vai cv r koto dimu
+6/22/22, 3:58 PM - Sheikh Rasel Ahmed(Nirob): whatspp e Email e r koi koi dimu vai
+6/22/22, 3:58 PM - Roni-vai-hr Ve: slow bro .. ok
+6/23/22, 2:47 PM - Sheikh Rasel Ahmed(Nirob): any update ?
+6/23/22, 3:01 PM - Roni-vai-hr Ve: Ki update
+6/23/22, 3:04 PM - Sheikh Rasel Ahmed(Nirob): Urgent Requirement
+6/23/22, 3:05 PM - Roni-vai-hr Ve: Apnar hate onno kono option thakle you can try.  UK Base Company ora oder process e knock dibe .
+6/23/22, 3:07 PM - Roni-vai-hr Ve: Okhne bolsi to ami karor kono extra query thakle amake direct msg or call , Group e Personal 1 to 1 msg diben na
+6/23/22, 3:10 PM - Sheikh Rasel Ahmed(Nirob): ok vai sry
+6/23/22, 3:10 PM - You left
+6/25/22, 2:06 PM - Mahmuda Apu Hr. Venture added you
+6/25/22, 2:29 PM - +880 1796-336003: I'm ready for u for everytime
+6/25/22, 2:33 PM - Roni-vai-hr Ve: 👍
+6/25/22, 2:52 PM - Roni-vai-hr Ve: @all are join this link 3.10 pm  https://meet.google.com/uhh-vftu-vmd
+6/26/22, 12:01 PM - Sheikh Rasel Ahmed(Nirob): You deleted this message
+6/26/22, 12:01 PM - Sheikh Rasel Ahmed(Nirob): You deleted this message
+6/26/22, 4:42 PM - +880 1682-612137 left
+6/26/22, 4:41 PM - Sheikh Rasel Ahmed(Nirob): <Media omitted>
+6/26/22, 4:41 PM - Sheikh Rasel Ahmed(Nirob): another project done
+6/26/22, 5:48 PM - +880 1821-054632: Apnader karo Payoneer account 1000 dolar hobe?
+6/27/22, 1:37 PM - +880 1821-054632: Hello
+6/27/22, 1:39 PM - +880 1798-129283 left
+6/27/22, 1:51 PM - Sheikh Rasel Ahmed(Nirob): ek ek kore sobai left nissc kno @8801946116327
+6/27/22, 2:01 PM - Roni-vai-hr Ve: As you wish
+6/27/22, 2:07 PM - Sheikh Rasel Ahmed(Nirob): ami amr kotha boli nai vai everyday kew na kew leave nissc tai bollam
+6/27/22, 2:12 PM - Anik-hr_ventur: Nek no prblm.jar dorker se  thakbe .jader dorker nai tara theke ki korbe
+6/27/22, 2:13 PM - Roni-vai-hr Ve: Right 👍
+6/27/22, 2:13 PM - +880 1821-054632: Right
+6/27/22, 5:17 PM - Sheikh Rasel Ahmed(Nirob): <Media omitted>
+6/28/22, 10:56 PM - Sheikh Rasel Ahmed(Nirob): laptop er c drive cara r ektao show kortec na kew ki ektu help korben
+6/29/22, 12:11 AM - Sheikh Rasel Ahmed(Nirob): Job Title: Django Developer
+Number of Positions: 4
+About Us:
+We are working with a foreign company to build a Low-Code Platform which is a Software Development Platform that simplifies and automates the tasks of creating and evolving enterprise applications and multi-channel user experiences.
+JOB RESPONSIBILITIES:
+Must be good at Django and Django REST framework
+Must have working experience with PostgreSQL
+Work with project managers to understand business requirements for solution delivery
+Work with senior software engineers and quality engineers to plan technical approaches to solution delivery
+Estimate timescales, progress, and testability of features.
+Design, develop, test, deploy, maintain and improve our product software with input and coaching from senior team members
+Manage project priorities, deadlines, and deliverables
+Work on technical integration projects
+Proactively identify areas for continuous improvement
+Participate in ongoing professional development
+EMPLOYMENT STATUS:
+Full-time
+WORKPLACE:
+Work at office
+EDUCATIONAL REQUIREMENTS:
+Bachelor of Science (BSc) in Computer Science & Engineering
+EXPERIENCE REQUIREMENTS:
+1 to 3 year(s)
+JOB LOCATION:
+Gulsan-1, Dhaka
+Salary:
+Tk. 40000 - 60000 (Monthly)
+(Depending on work experience)
+Compensation & Other Benefits:
+Very friendly environment and work culture
+2 days weekly holiday
+Other benefits as per company rules and regulations
+Lots of challenges and opportunities to boost your career
+NOTE:
+We do not discriminate against gender, color, race, or anything. Feel free to apply.
+Please include your photograph with your resume.
+Please do not forget to add your GitHub & LinkedIn profile links.
+Send your application with the subject line: "Django Developer Application" to almehady@gmail.com
+6/29/22, 12:50 AM - +880 1796-336003: Restart den
+6/29/22, 6:36 AM - +880 1780-862268: Used antivirus program
+6/29/22, 5:44 PM - Sheikh Rasel Ahmed(Nirob): <Media omitted>
+7/1/22, 2:53 PM - Sheikh Rasel Ahmed(Nirob): Asscalamu Walaikum all,
+Jumma Mubarak Kew ki Interview er jonno mail ba call peyecen jara cv diyecilen ?
+7/1/22, 6:54 PM - Sheikh Rasel Ahmed(Nirob): <Media omitted>
+7/1/22, 6:55 PM - Sheikh Rasel Ahmed(Nirob): 𝗗𝗶𝗱 𝘆𝗼𝘂 𝗸𝗻𝗼𝘄 𝘁𝗵𝗮𝘁 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗿𝘂𝗻 𝗦𝗤𝗟 𝗾𝘂𝗲𝗿𝗶𝗲𝘀 𝗶𝗻 𝗣𝘆𝘁𝗵𝗼𝗻 𝘂𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗣𝗮𝗻𝗱𝗮𝘀𝗾𝗹 𝗹𝗶𝗯𝗿𝗮𝗿𝘆?
+7/1/22, 7:40 PM - Sheikh Rasel Ahmed(Nirob): I have a new project I need your help is there anyone interested then join with me at 8.00PM
+7/1/22, 7:41 PM - Sheikh Rasel Ahmed(Nirob): https://us05web.zoom.us/j/3332730901?pwd=QlIyckwrNDlmNVBmOUVJcm1JRW0wQT09
+7/1/22, 7:59 PM - Sheikh Rasel Ahmed(Nirob): plz... join
+7/1/22, 8:02 PM - Sheikh Rasel Ahmed(Nirob): https://us05web.zoom.us/j/3332730901?pwd=QlIyckwrNDlmNVBmOUVJcm1JRW0wQT09
+7/1/22, 8:02 PM - Sheikh Rasel Ahmed(Nirob): Intern is also fine just join plz..
+7/1/22, 8:06 PM - MD. Zahirul Islam Joy(hr venture15): Ok vai
+7/1/22, 8:06 PM - +880 1821-054632: সবাই তাড়াতাড়ি জয়েন করুন
+7/1/22, 8:10 PM - +880 1821-054632: apnara ki achen
+7/1/22, 8:10 PM - +880 1821-054632: please everyone joine
+7/1/22, 8:11 PM - MD. Zahirul Islam Joy(hr venture15): Joined
+7/1/22, 8:11 PM - MD. Zahirul Islam Joy(hr venture15): Already
+7/1/22, 8:49 PM - +880 1821-054632: hello
+7/1/22, 8:49 PM - Sheikh Rasel Ahmed(Nirob): dissc vai
+7/1/22, 8:49 PM - MD. Zahirul Islam Joy(hr venture15): oh ok
+7/1/22, 8:50 PM - +880 1821-054632: @8801644425997 link
+7/1/22, 8:50 PM - +880 1821-054632: Ok
+7/1/22, 8:51 PM - Sheikh Rasel Ahmed(Nirob): https://us05web.zoom.us/j/86404973664?pwd=MG1qcWgrSFE2WnhJUFNyMGpRWFpMUT09
+7/1/22, 8:51 PM - Sheikh Rasel Ahmed(Nirob): first
+7/1/22, 8:57 PM - +880 1821-054632: Vai add den
+7/1/22, 8:58 PM - +880 1821-054632: @8801644425997 vai
+7/2/22, 5:37 PM - Sheikh Rasel Ahmed(Nirob): Invalid notebook The Notebook Does Not Appear to Be Valid JSON
+7/2/22, 5:37 PM - Sheikh Rasel Ahmed(Nirob): ei prb ta kew face korecen ?
+7/4/22, 2:02 AM - Sheikh Rasel Ahmed(Nirob): <Media omitted>
+7/4/22, 2:02 AM - Sheikh Rasel Ahmed(Nirob): another project done
+7/4/22, 2:02 AM - Sheikh Rasel Ahmed(Nirob): https://github.com/Rasel1435/Machine-Learning-Projects-with-Python-for-Beginners/blob/main/Unemployment_Analysis_with_Python/Unemployment_Analysis_with_Python.ipynb
+7/4/22, 4:27 AM - Mohidul Islam Sobuj hr venture (1013): This was a amazing task
+7/5/22, 12:49 AM - Sheikh Rasel Ahmed(Nirob): https://www.linkedin.com/posts/shekhnirob1_car-price-prediction-with-machine-learning-activity-6949795700310192128-J1GK?utm_source=linkedin_share&utm_medium=member_desktop_web
+7/5/22, 12:49 AM - Sheikh Rasel Ahmed(Nirob): Car Price Prediction with Machine Learning
+Keep Me on Your Prayer. another project please like comment and share.
+7/6/22, 3:16 PM - Sheikh Rasel Ahmed(Nirob): https://www.linkedin.com/posts/shekhnirob1_spam-detection-with-machine-learning-activity-6950376733111894017-VZ7x?utm_source=linkedin_share&utm_medium=member_desktop_web
+7/6/22, 3:16 PM - Sheikh Rasel Ahmed(Nirob): Spam Detection with Machine Learning
+7/6/22, 3:16 PM - Sheikh Rasel Ahmed(Nirob): have a look
+7/6/22, 5:02 PM - +880 1721-307072: Ji
+7/6/22, 5:03 PM - +880 1721-307072: Deep learning die kora jai
+7/6/22, 5:11 PM - Sheikh Rasel Ahmed(Nirob): ektu sikhayen
+7/6/22, 5:13 PM - Sheikh Rasel Ahmed(Nirob): vai
+7/6/22, 6:05 PM - Mohidul Islam Sobuj hr venture (1013): 😀
+7/9/22, 3:31 PM - Sheikh Rasel Ahmed(Nirob): https://www.linkedin.com/posts/shekhnirob1_count-objects-in-image-using-python-activity-6951467003203190784-2Isq?utm_source=linkedin_share&utm_medium=member_desktop_web
+7/9/22, 3:31 PM - Sheikh Rasel Ahmed(Nirob): Count Objects in Image using Python with Machine Learning
+7/9/22, 5:31 PM - +880 1721-307072: Deep er kisu  jana ase ki ?
+7/9/22, 5:32 PM - +880 1721-307072: First e Neural network clear hoben.
+7/9/22, 5:33 PM - Sheikh Rasel Ahmed(Nirob): openCV, Cvlib GAN,CNN, pyTroch, TrensorFlow Jani vai
+7/9/22, 5:34 PM - Sheikh Rasel Ahmed(Nirob): apnar kac hafiz vai er resorch thakle dite paren on deep learning
+7/9/22, 5:34 PM - +880 1721-307072: Bhai aigulu to base na
+7/9/22, 5:35 PM - Sheikh Rasel Ahmed(Nirob): egulo pottek ta ek ekta librey vai deep learning er
+7/9/22, 5:37 PM - Sheikh Rasel Ahmed(Nirob): i kno know how to record won video by openCv
+7/9/22, 5:37 PM - Sheikh Rasel Ahmed(Nirob): i know how to record won audio
+7/9/22, 5:37 PM - Sheikh Rasel Ahmed(Nirob): i know how to detact object in video
+7/9/22, 5:38 PM - Sheikh Rasel Ahmed(Nirob): i know how to detact object on image
+7/9/22, 5:38 PM - Sheikh Rasel Ahmed(Nirob): by openCv snd cvlib
+7/9/22, 5:39 PM - Sheikh Rasel Ahmed(Nirob): i know how to take selfi 1 milion or unlimited by one click by openCv
+7/9/22, 5:40 PM - +880 1721-307072: Bhai janen, mone hoi openCv die but class, ba DCN die na.
+7/9/22, 5:41 PM - Sheikh Rasel Ahmed(Nirob): there is lots of libery vai openCV, Google trensorFlow, pytroch and cvlib are most popular and powerfull
+7/9/22, 5:41 PM - +880 1721-307072: Nije kono model koresen ki?
+7/9/22, 5:42 PM - +880 1721-307072: Korle multilingual machine translation er akta model amake den
+7/9/22, 5:42 PM - Sheikh Rasel Ahmed(Nirob): could you plz... visit my GitHub or linkedin there is sapareat floder on openCv
+7/9/22, 5:42 PM - +880 1721-307072: Amar kub dorkar
+7/9/22, 5:43 PM - Sheikh Rasel Ahmed(Nirob): i have done my client project like google transleat
+7/9/22, 5:44 PM - +880 1721-307072: Jodi problem na thake aktu share korben ki?
+7/9/22, 5:44 PM - Sheikh Rasel Ahmed(Nirob): its kinda you will write a sentence present tense my model will show yoh future tens of that sentence
+7/9/22, 5:44 PM - +880 1721-307072: No
+7/9/22, 5:45 PM - +880 1721-307072: Multi transaction
+7/9/22, 5:45 PM - +880 1721-307072: Translation
+7/9/22, 5:45 PM - +880 1721-307072: Bangla to english to arabi
+7/9/22, 5:45 PM - Sheikh Rasel Ahmed(Nirob): i have done
+7/9/22, 5:46 PM - +880 1721-307072: Or have any algorithm ?
+7/9/22, 5:47 PM - Sheikh Rasel Ahmed(Nirob): without algo how could i create btw have you done your deep learning course from Hafiz vai
+7/9/22, 5:54 PM - +880 1721-307072: Apni kono  software firm e kaj koren na nije....? Rassel bhai
+7/9/22, 5:55 PM - Sheikh Rasel Ahmed(Nirob): Genex
+7/9/22, 5:55 PM - Sheikh Rasel Ahmed(Nirob): hope heard this company name
+7/9/22, 5:57 PM - +880 1721-307072: Ji,
+7/9/22, 5:58 PM - +880 1721-307072: It associates
+7/9/22, 5:58 PM - +880 1721-307072: IT associates
+7/9/22, 6:01 PM - Sheikh Rasel Ahmed(Nirob): cilam now bekar
+7/9/22, 6:02 PM - Sheikh Rasel Ahmed(Nirob): job khujtec on machine learning
+7/9/22, 6:04 PM - +880 1721-307072: Hoe jabe in sa allah
+7/9/22, 6:05 PM - +880 1721-307072: Y r expert man
+7/9/22, 6:05 PM - Sheikh Rasel Ahmed(Nirob): almost 8 month has gone vai still passc
+7/9/22, 6:05 PM - Sheikh Rasel Ahmed(Nirob): valo ekta platfrom
+7/9/22, 6:06 PM - +880 1721-307072: Time nibe valo kisu hote
+7/9/22, 6:06 PM - +880 1721-307072: Rassel bhai, IoT er kono kisu kora ase ki?
+7/9/22, 6:07 PM - +880 1721-307072: With python
+7/9/22, 6:08 PM - Sheikh Rasel Ahmed(Nirob): hm
+7/9/22, 6:08 PM - +880 1721-307072: And also block chain
+7/9/22, 6:09 PM - +880 1721-307072: Tobe raspberry sara IoT
+7/9/22, 6:10 PM - Sheikh Rasel Ahmed(Nirob): apni ki deep learning er course ses korecen hrventure theke?
+7/9/22, 6:24 PM - +880 1721-307072: No
+7/9/22, 9:24 PM - +880 1912-095224: <Media omitted>
+7/9/22, 9:33 PM - Sheikh Rasel Ahmed(Nirob): EID MUBARAK
+7/9/22, 11:11 PM - Roni-vai-hr Ve: <Media omitted>
+7/10/22, 7:26 AM - +880 1912-188308: <Media omitted>
+7/12/22, 10:29 AM - Sheikh Rasel Ahmed(Nirob): I got Project is there anyone available to do it knock me first
+7/12/22, 10:51 AM - +880 1796-336003: yes
+7/12/22, 10:53 AM - Sheikh Rasel Ahmed(Nirob): knock me
